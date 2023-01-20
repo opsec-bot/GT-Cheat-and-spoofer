@@ -5,6 +5,10 @@ Mod noclip usually is a INSTANT ban
 
 *CE* : https://github.com/cheat-engine/cheat-engine
 
+what cheats it has
+
+![Alt text](https://cdn.discordapp.com/attachments/1035689945135841320/1065828619294875648/image.png "Title")
+
 How spoof:
 
   First make sure you are banned (duh)
